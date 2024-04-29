@@ -1,5 +1,13 @@
-# 💫 About Me:
-Hi there👋, I'm Srishti.  I am a frontend developer and C++ programmer.<br>I am Data Science enthusiast from India.<br><br>💫 Here are some things about me:<br>🔭 I’m currently getting my hands on react js <br>💬 Ask me about Frontend development and Data Structure and algorithms<br>👯 I’m looking to collaborate on any creative ideas where I can learn more<br><br>📫 Reach me at srishti190117@gmail.com
+## About Me:
+Hi there👋, I’m Srishti. I am an Experienced Data Scientist and C++ programmer from India currently in 3rd year of B.tech degree.
+
+
+💫 Here are some things about me:
+🔭 I’m currently getting my hands on advanced Machine Learning and AI.
+💬 Ask me about Data Science and Data Structure and algorithms
+👯 I’m open to collaborate on any exciting projects to make an impact in the World.
+
+📫 Reach me at srishti190117@gmail.com
 
 
 ## 🌐 Socials:
